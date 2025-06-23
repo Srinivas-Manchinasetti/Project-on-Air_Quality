@@ -39,19 +39,32 @@ Radar Chart (Normalized Feature Means
 
 
 Output and plots:
+
+
+
 ![Screenshot 2025-06-23 233727](https://github.com/user-attachments/assets/b04c13b9-a80c-410c-8f77-1fa2de29c796)
 
 Scatter plot:
+
+
 ![Screenshot 2025-06-23 002544](https://github.com/user-attachments/assets/763c028f-a9ee-489d-a134-e28b5e1c0da6)
 
 Box plot:
+
+
 ![Screenshot 2025-06-23 002625](https://github.com/user-attachments/assets/26355066-cdc1-4c25-9c4d-07d32a5bc42d)
 
 HeatMap plot:
+
+
 ![Screenshot 2025-06-23 002725](https://github.com/user-attachments/assets/b2098806-d674-4205-a93a-e68bf4ea3ba9)
 
 Bar graph plot:
+
+
 ![Screenshot 2025-06-23 002914](https://github.com/user-attachments/assets/50a64092-b7ad-4e7b-b1cb-4c8734b8dea5)
 
 Radar plot:
+
+
 ![Screenshot 2025-06-23 002947](https://github.com/user-attachments/assets/78308bfe-d6b5-4a55-a20f-5c0e7fc7f4e4)
